@@ -1,1 +1,2 @@
-New chapter of my story has been written here
+New chapter of my story has been written here.
+The second paragraph to the second branch.
